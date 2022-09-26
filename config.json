@@ -7,13 +7,7 @@
 			"title": "Getting Started",
 			"file": "pages/getting-started.md"
 		}
-		]
-	[
-		
-		{
-			"title": "Boosting",
-			"file": "pages/boosting.md"
-		}
+	
 	],
 	"menu": [
 		
@@ -28,57 +22,6 @@
 			"title": "What is Nanogram?",
 			"body": "Nanogram’s goal is to be an all inclusive social media platform providing features that allows users to send, receive, and earn in Nano, while also being a place for users to share their lives with the world. Nanogram is a crypto based platform with an integrated Nano wallet providing the reliability of payment processors without the need for a middle man that you would find when dealing in fiat currencies."
 		}
-		]
-	[
-		
-		{
-			"title": "How does Nanogram work?",
-			"body": "Nanogram has an integrated Nano wallet which allows for our users to send digital currency directly to one another, in an instant. Everyday people can use Nanogram to send and receive their digital currency in a similar manner to apps such as Cash App or Venmo. While online content creators can monetize their accounts and earn from their content similar to apps such as TikTok or OnlyFans. Because all transactions are done through Nano, users have instant access to their funds. We chose to use the cryptocurrency Nano because it has zero fees and is one of the most eco-friendly coins on the market."
-		}
-		]
-	[
-
-		{
-			"title": "What features do you have?",
-			"body": "We offer similar features to the social platforms that we all love and use everyday, and also new features like boosts, promotions, and ghost messaging. From stories to live streaming, to instant messaging and keeping up with what’s trending, Nanogram offers a familar feel to it’s users while still bringing a fresh and enticing spin to social media as well!"	
-		}
-		]
-		
-	[
-		{
-			"title": "What is Nano?",
-			"body": "Nano is a digital currency for everyone, without fees. It doesn’t cost anything to send Nano, making it practical and inclusive for all the world. Unlike many other cryptocurrencies, Nano does not rely on printing or minting, creating a sustainable alternative to fiat currency such as the US dollar. Nano can be sent instantly anywhere in the world."
-		}
-		]
-
-		[
-		{
-			"title": "How much does Nanogram cost?",
-			"body": "Nothing at all! While we do offer premium features and build revenue from allowing users to promote their content, Nanogram does not charge a dime for using our platform or monetizing your account. This makes us stand out from our competitors, as all other platforms with similar monetization features take a percentage of earnings made on their platform."
-		}
-			]
-
-		[
-		{
-			"title": "Is it safe?",
-			"body": "Everything that we do is with user safety in mind. With multiple privacy features already implemented and more being added regularly, you can rest assured that your privacy is at the top of our priority list!"
-		}
-		]
-
-		[
-		{
-			"title": "How do I get started?",
-			"body": "Simply sign up and follow the steps on the screen, and you are ready to go! We may ask for you to verify your identity depending on what type of content you are uploading, but we will only ask for personal information from our users when legally required."
-		}
-			]
-
-		[
-		{
-			"title": "What is Nanogram's vision?",
-			"body": "We are living in a time where our future is unknown. The abuse seen from our global powers and the ongoing climate crisis are serious existential threats that should not be taken lightly. While Nanogram may not be able to save the world, bringing a sustainable and bank-less currency into the lives of daily users is a strong first step. Giving power back to the people is the best solution to most of the problems that we face, and we hope that we may be able to empower you to realize how much power YOU really have."
-		}
-			]
-
 		
 	],
 	"changelog": [
