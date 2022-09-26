@@ -5,9 +5,7 @@
 	"sections": [
 		{
 			"title": "Get Started",
-			"file": "pages/getting-started.md",
 			"file": "pages/boosting.md"
-		
 		}
 	],
 	"menu": [
