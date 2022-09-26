@@ -4,7 +4,7 @@
 	"version": "v1.0",
 	"sections": [
 		{
-			"title": "Get Started",
+			"title": "Getting Started",
 			"file": "pages/boosting.md"
 		}
 	],
