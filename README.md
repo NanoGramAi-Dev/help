@@ -1,4 +1,4 @@
-## Naogram Help Page
+## Nanogram Help Page
 
 Hosted on Github for Free 😄
 
