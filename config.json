@@ -2,50 +2,47 @@
 	"title": "Nanogram - Help Docs",
 	"logo": "Help Docs",
 	"version": "v1.0",
-	"sections": [
-		{
+	"sections": [{
 			"title": "Getting Started",
 			"file": "pages/getting-started.md"
+		},
+		{
+			"file": "pages/boosting.md"
 		}
-	
 	],
+
+
 	"menu": [
-		
+
 		{
 			"title": "Github",
 			"href": "https://github.com"
 		}
 
 	],
-	"faq": [
-		{
+	"faq": [{
 			"title": "What is Nanogram?",
 			"body": "Nanogram’s goal is to be an all inclusive social media platform providing features that allows users to send, receive, and earn in Nano, while also being a place for users to share their lives with the world. Nanogram is a crypto based platform with an integrated Nano wallet providing the reliability of payment processors without the need for a middle man that you would find when dealing in fiat currencies."
 		}
-		
+
 	],
-	"changelog": [
-		{
+	"changelog": [{
 			"title": "Version 1",
-			"date": "12 Oct, 2020", 
-			"changes": [
-				{
-					"title": "Your information here for added new feature",
-					"type": "success",
-					"label": "ADDED"
-				}
-			]
+			"date": "12 Oct, 2020",
+			"changes": [{
+				"title": "Your information here for added new feature",
+				"type": "success",
+				"label": "ADDED"
+			}]
 		},
 		{
 			"title": "Version 1",
-			"date": "12 Oct, 2020", 
-			"changes": [
-				{
-					"title": "Your information here for added new feature",
-					"type": "success",
-					"label": "ADDED"
-				}
-			]
+			"date": "12 Oct, 2020",
+			"changes": [{
+				"title": "Your information here for added new feature",
+				"type": "success",
+				"label": "ADDED"
+			}]
 		}
 	]
 }
